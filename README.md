@@ -1,4 +1,4 @@
-# bike-share_data_analysis_SEP2021
+# bike-share_data_analysis_OCT2021
 
 A data analysis project on bike-sharing business. 
 Project's target is to analyze the behaviour differences between casual riders and annual members on riding the shared bikes.
